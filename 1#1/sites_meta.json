@@ -1,0 +1,320 @@
+{
+  "https://msudairystore.com": {
+    "gateway": "Shopify Payments",
+    "price": "4.0",
+    "response": "ORDER PLACED",
+    "checked": "04/09/2026 23:12"
+  },
+  "https://bonbonbon.com": {
+    "gateway": "Shopify Payments",
+    "price": "21.0",
+    "response": "ORDER PLACED",
+    "checked": "04/09/2026 23:03"
+  },
+  "https://agrariaome.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "15.6",
+    "response": "OTP_REQUIRED",
+    "checked": "04/09/2026 23:03"
+  },
+  "https://www.militadowatch.com": {
+    "gateway": "Shopify Payments",
+    "price": "16.990000000000002",
+    "response": "OTP_REQUIRED",
+    "checked": "04/09/2026 23:09"
+  },
+  "https://hoppybunnyshop.com": {
+    "gateway": "Shopify Payments",
+    "price": "16.48",
+    "response": "OTP_REQUIRED",
+    "checked": "04/09/2026 23:10"
+  },
+  "https://south-indian-grocery.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "13.97",
+    "response": "OTP_REQUIRED",
+    "checked": "04/09/2026 23:11"
+  },
+  "https://www.proferred.tools": {
+    "gateway": "Shopify Payments",
+    "price": "21.75",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 08:47"
+  },
+  "https://enjouchocolat.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "26.43",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 08:47"
+  },
+  "https://dcta-website.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "1.5",
+    "response": "ORDER PLACED",
+    "checked": "05/09/2026 22:35"
+  },
+  "https://df5480-2.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "26.42",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 08:49"
+  },
+  "https://ironman8cards.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "10.98",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 08:49"
+  },
+  "https://fondbonebrothtonics.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "26.979999999999997",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 08:49"
+  },
+  "https://chin-dribblin.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "25.42",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 08:52"
+  },
+  "https://we-love-olive-oil.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "20.66",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 19:55"
+  },
+  "https://skullshaver.com": {
+    "gateway": "Shopify Payments",
+    "price": "16.73",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 09:14"
+  },
+  "https://valentinas-3.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "23.5",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 09:23"
+  },
+  "https://mamabearbabywear.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "14.780000000000001",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 09:57"
+  },
+  "https://alchemy-merch.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "10.0",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 15:44"
+  },
+  "https://www.baristaunderground.com": {
+    "gateway": "Shopify Payments",
+    "price": "29.57",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 15:51"
+  },
+  "https://makofbeauty.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "25.97",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 16:09"
+  },
+  "https://brumleve-industries.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "32.5",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 16:10"
+  },
+  "https://kind-laundry.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "15.48",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 16:27"
+  },
+  "https://littlespoonshop.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "18.98",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 18:45"
+  },
+  "https://www.roysrockets.com": {
+    "gateway": "Shopify Payments",
+    "price": "23.94",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 16:35"
+  },
+  "https://ranx-fashion.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "24.299999999999997",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 16:41"
+  },
+  "https://loops-beauty.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "18.8",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 21:07"
+  },
+  "https://frank-lloyd-wright-store.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "13.4",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 16:50"
+  },
+  "https://kitin-beauty.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "23.89",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 17:00"
+  },
+  "https://few-of-a-kind-store.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "9.28",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 17:01"
+  },
+  "https://pasnyparts.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "22.46",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 17:03"
+  },
+  "https://vermontwildflowerfarm.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "15.7",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 17:31"
+  },
+  "https://aspen-creative.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "19.97",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 17:39"
+  },
+  "https://beadshop-com.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "12.8",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 17:43"
+  },
+  "https://redouxinteriors.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "16.9",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 18:01"
+  },
+  "https://kellyeyewear-1744.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "24.5",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 18:13"
+  },
+  "https://darn-tough.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "11.780000000000001",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 18:25"
+  },
+  "https://shop-amorus.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "13.030000000000001",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 18:54"
+  },
+  "https://ashleygracedesigns.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "10.8",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 18:56"
+  },
+  "https://drbrownsbaby.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "14.41",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 19:14"
+  },
+  "https://mah-official.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "22.97",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 19:22"
+  },
+  "https://nationalcathedralstore.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "24.78",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:00"
+  },
+  "https://eire-beauty-llc.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "19.0",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:13"
+  },
+  "https://babies-in-bloom.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "13.850000000000001",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:15"
+  },
+  "https://the-punk-effect.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "12.49",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:16"
+  },
+  "https://diredeals-2.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "19.8",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:24"
+  },
+  "https://infinitum-health-inc.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "26.0",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:25"
+  },
+  "https://generouscoffee.com": {
+    "gateway": "Shopify Payments",
+    "price": "22.0",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:28"
+  },
+  "https://59778d-2.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "19.87",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:55"
+  },
+  "https://desnuda-tequila.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "48.39",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 20:37"
+  },
+  "https://salishseabrewingco.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "41.78",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 21:04"
+  },
+  "https://chumsinc.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "18.950000000000003",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 21:09"
+  },
+  "https://boowan-nicole.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "12.48",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 22:11"
+  },
+  "https://bulk-cctv-store.myshopify.com": {
+    "gateway": "Shopify Payments",
+    "price": "101.2",
+    "response": "OTP_REQUIRED",
+    "checked": "05/09/2026 22:31"
+  }
+}
