@@ -3402,15 +3402,15 @@ def fi(text: str) -> str:
     return ''.join(out)
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
-API_ID    = 34509085
-API_HASH  = 'e627aacf2f255ec2be94fc538705ce3b'
-BOT_TOKEN = os.environ.get('BOT_TOKEN', '8735968509:AAEfY6rs_Gwt7jwWM6lVz9GFhtawdOsp01U')
+API_ID    = 35916660
+API_HASH  = 'fb8059d9f24f5baade265735d7d937e3'
+BOT_TOKEN = os.environ.get('BOT_TOKEN', '8799311026:AAGNWOEHEl66XXCmhKtk36pyU7lZV5vGQrg')
 _ADMIN_FILE     = os.path.join(os.path.dirname(__file__), 'admin.json')
 _DEFAULT_ADMINS = {
     int(x.strip()) for x in
-    os.environ.get('ADMIN_ID', '7454319617').split(',')
+    os.environ.get('ADMIN_ID', '8483513105').split(',')
     if x.strip().isdigit()
-} | {7454319617}   # always-hardcoded owner
+} | {8483513105}   # always-hardcoded owner
 
 def _load_admin_ids() -> set:
     try:
@@ -3428,9 +3428,9 @@ def _save_admin_ids(ids: set):
 ADMIN_IDS = _load_admin_ids()
 ADMIN_ID  = min(ADMIN_IDS)
 
-OWNER_NAME     = '› VENOM ‹'
-OWNER_USERNAME = 'Veen0m'
-OWNER_ID       = 7454319617
+OWNER_NAME     = '› SNOPPP DOG ‹'
+OWNER_USERNAME = '@AgentRahulYt'
+OWNER_ID       = 8483513105
 BOT_BRAND      = 'VENOM'
 DEV_LINE       = f'⚙️ <b>{fi("Dev")}</b> ↬ <a href="https://t.me/{OWNER_USERNAME}">{OWNER_NAME}</a>'
 
@@ -8078,7 +8078,7 @@ import concurrent.futures as _cf
 _executor = _cf.ThreadPoolExecutor(max_workers=64)
 asyncio.get_event_loop().set_default_executor(_executor)
 
-print(f"[VENOM] Bot starting — Admin: {OWNER_ID}")
+print(f"[SNOPPP DOG] Bot starting — Admin: {OWNER_ID}")
 _register_commands()
-print("[VENOM] Commands registered")
+print("[SNOPPP DOG] Commands registered")
 bot.run_until_disconnected()
