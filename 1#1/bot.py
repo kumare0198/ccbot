@@ -3431,7 +3431,7 @@ ADMIN_ID  = min(ADMIN_IDS)
 OWNER_NAME     = '› SNOPPP DOG ‹'
 OWNER_USERNAME = '@AgentRahulYt'
 OWNER_ID       = 8483513105
-BOT_BRAND      = 'VENOM'
+BOT_BRAND      = 'X CHECKER X BOT'
 DEV_LINE       = f'⚙️ <b>{fi("Dev")}</b> ↬ <a href="https://t.me/{OWNER_USERNAME}">{OWNER_NAME}</a>'
 
 PREMIUM_FILE        = os.path.join(os.path.dirname(__file__), 'premium.txt')
@@ -3736,7 +3736,7 @@ def load_sites_for_user(uid: int) -> tuple:
     # Nothing tagged at all — return everything so the check still runs
     return all_sites, 'any'
 
-KEY_PREFIX = "VENOM"
+KEY_PREFIX = "X CHECKER X BOT"
 
 TIER_LIMITS = {
     "admin": 25000,
@@ -5047,7 +5047,7 @@ async def notify_admins_hit(user_id, result, bin_info, checker_name):
     label = "🔥 CHARGED HIT" if status == 'Charged' else "✅ APPROVED HIT"
     card_text = build_result_card(result, bin_info, user_id, checker_name)
     notif = pe(
-        f"<b>{label} — VENOM</b>\n"
+        f"<b>{label} — X CHECKER X BOT</b>\n"
         f"<b>{'═'*24}</b>\n"
         f"<b>By:</b> <a href='tg://user?id={user_id}'>{checker_name}</a> (<code>{user_id}</code>)\n"
         f"<b>{'─'*24}</b>\n"
@@ -5526,7 +5526,7 @@ async def start(event):
     else:                      status_line = "🚫 No Access"
     lim = get_user_limit(uid)
     caption = pe(
-        f"<b>VENOM</b>\n"
+        f"<b>X CHECKER X BOT</b>\n"
         f"<b>{SEP}</b>\n"
         f"👤 <b>{fi('User')}:</b> {firstname}\n"
         f"🔗 <b>{fi('Handle')}:</b> {username}\n"
@@ -6903,7 +6903,7 @@ async def testcards_command(event):
     await event.reply(pe(f"<b>🧪 Test Cards Preview</b> — {len(statuses)} result types"), parse_mode='html')
     for status, message, gateway, price in statuses:
         fake_result = {'status': status, 'message': message, 'card': "4111111111111111|12|2026|123", 'gateway': gateway, 'price': price}
-        card_msg = build_result_card(fake_result, fake_bin, uid, "VENOM Checker")
+        card_msg = build_result_card(fake_result, fake_bin, uid, "X CHECKER X BOT Checker")
         await raw_send(uid, card_msg, [])
         await asyncio.sleep(0.4)
 
@@ -6915,7 +6915,7 @@ def _admin_panel_text():
     kcount = len(_keys_data)
     unused = sum(1 for v in _keys_data.values() if v.get('redeemed_by') is None)
     return pe(
-        f"<b>👑 Admin Panel — VENOM</b>\n"
+        f"<b>👑 Admin Panel — X CHECKER X BOT</b>\n"
         f"<b>{SEP}</b>\n"
         f"👤 <b>Total Users:</b> {pcount}\n"
         f"🌐 <b>Sites:</b> {scount}\n"
@@ -7466,7 +7466,7 @@ async def cb_back_start(event):
     else:                      status_line = "🚫 No Access"
     lim = get_user_limit(uid)
     text = pe(
-        f"<b>VENOM</b>\n"
+        f"<b>X CHECKER X BOT</b>\n"
         f"<b>{SEP}</b>\n"
         f"👤 <b>User:</b> {firstname}\n"
         f"🔗 <b>Handle:</b> {username}\n"
